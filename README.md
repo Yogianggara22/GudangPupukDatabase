@@ -1,2 +1,2 @@
-# always-smile
+# Db_GudangPupukPertanian
 Database gudang pupuk pertanian adalah kumpulan data yang terdiri dari informasi-informasi mengenai gudang pupuk pertanian. Database ini bertujuan untuk memudahkan dalam mengelola dan mengatur stok pupuk yang tersedia di gudang pertanian. Dengan adanya database ini, petugas gudang dapat mengetahui informasi terkait stok pupuk yang tersedia, kapan pupuk tersebut datang, dan kapan terakhir kali pupuk tersebut dipakai.
